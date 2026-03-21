@@ -1,5 +1,8 @@
 package com.attendx.model;
-
+/**
+ * Student class represents a student in the attendance system.
+ * Extends User and adds attendance tracking functionality.
+ */
 public class Student extends User {
     private static final long serialVersionUID = 1L;
     private int totalClasses;

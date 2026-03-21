@@ -1,3 +1,7 @@
+/**
+ * Faculty class represents a teacher/faculty member.
+ * Extends User and adds designation field.
+ */
 package com.attendx.model;
 
 public class Faculty extends User {

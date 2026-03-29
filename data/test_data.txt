@@ -1,3 +1,0 @@
-Sample Test Data for AttendX Pro
-Test Student: Roll No 101 - Amit
-Test Faculty: UID F001 - Prof Sharma
